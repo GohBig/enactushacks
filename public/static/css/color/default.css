@@ -11,15 +11,15 @@
 header .k-navbar-nav li a.active,
 header .k-navbar-nav li a:hover,
 .theme-color {
-  color:#09c3b3;
+  color:#f44336;
 }
 
 .theme-border {
-	border-color: #09c3b3;
+	border-color: #f44336;
 }
 
-.m-btn,
+.m-btn, /*--log in button--*/
 .theme-after:after,
 .theme-bg {
-  background: #09c3b3;
+  background: #cc0000;
 }
