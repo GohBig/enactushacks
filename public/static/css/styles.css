@@ -256,6 +256,23 @@ img {
   background-color: #fff;
 }
 
+.feed-btn{
+  height: 45px;
+  line-height: 45px;
+  padding: 0 30px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  border: none;
+  border-radius: 3px;
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  display: inline-block;
+  text-decoration: none !important;
+}
+
 .m-btn-white:hover {
   color: #fff;
 }
