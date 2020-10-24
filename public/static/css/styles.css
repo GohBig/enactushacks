@@ -257,7 +257,7 @@ img {
 }
 
 .feed-btn{
-  height: 45px;
+  height: 40px;
   line-height: 45px;
   padding: 0 30px;
   font-size: 12px;
@@ -271,6 +271,7 @@ img {
   outline: none;
   display: inline-block;
   text-decoration: none !important;
+  margin-top: 5px;
 }
 
 .m-btn-white:hover {
