@@ -259,7 +259,7 @@ img {
 .feed-btn{
   height: 40px;
   line-height: 45px;
-  padding: 0 30px;
+  padding: 0 20px;
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 2.5px;
@@ -271,7 +271,6 @@ img {
   outline: none;
   display: inline-block;
   text-decoration: none !important;
-  margin-top: 5px;
 }
 
 .m-btn-white:hover {
